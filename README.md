@@ -10,7 +10,7 @@ Channel ranking is a computational heavy task as it needs every channel availabl
   * Date can be converted to datetime
 
 # Usage
-![Alt Text](https://drive.google.com/file/d/1ktmZ8AjX32t71VKdm2HzWyk3cKUE6fa3/view?usp=sharing.gif)
+![Alt Text](https://github.com/pmb06d/channel_ranker/blob/master/new%20ranker.gif)
 
 # How to use
 You can take a look at this [link](https://drive.google.com/open?id=1UZxccp5TbReU676jDtjAIhu7fOhhUhotHIPtpaQumTk)
