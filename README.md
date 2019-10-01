@@ -9,8 +9,7 @@ Channel ranking is a computational heavy task as it needs every channel availabl
   * All measures will be converted to floats
   * Date can be converted to datetime
 
-# Usage
+# How to use
 ![Alt Text](https://github.com/pmb06d/channel_ranker/blob/master/new%20ranker.gif)
 
-# How to use
-You can take a look at this [link](https://drive.google.com/open?id=1UZxccp5TbReU676jDtjAIhu7fOhhUhotHIPtpaQumTk)
+You can take a look at this [link](https://drive.google.com/open?id=1UZxccp5TbReU676jDtjAIhu7fOhhUhotHIPtpaQumTk) for a step-by-step guide
